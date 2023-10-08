@@ -1,0 +1,8 @@
+new entry "SMR_Ring_Magic_1"
+type "Armor"
+using "_Ring"
+data "RootTemplate" "7652a688-82fb-4ee7-9e9b-c54c996ff6aa"
+data "ObjectCategory" "Jewelry"
+data "ValueOverride" "7"
+data "Rarity" "Rare"
+data "Boosts" "UnlockSpell(SMR_Projectile_FireBolt_Unlimited)"

@@ -1,0 +1,1 @@
+Remember, top-level "ModTemplate" directory and all files/directories with the same name must be updated to "name_of_mod.*".

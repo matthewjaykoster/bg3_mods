@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="6" build="5" />
+	<region id="Templates">
+		<node id="Templates">
+			<children> 
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h4266263cg6fa1g437fg84afg8e7d339031df" version="2" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hbd6db74ag37feg4288g8a9egf2dbf5e5cb17" version="3" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_GEN_Ring_C_Silver_A" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="7652a688-82fb-4ee7-9e9b-c54c996ff6aa" />
+					<attribute id="Name" type="LSString" value="SMR_Ring_Magic_1" />
+					<attribute id="ParentTemplateId" type="FixedString" value="81d843ad-2343-4964-b5d0-3db44dfee4e1" />
+					<attribute id="Stats" type="FixedString" value="SMR_Ring_Magic_1" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
