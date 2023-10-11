@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList>
 	<content contentuid="h1b409fdeg5b14g4b5dg80fcg5aa2997263dc" version="3">You gain a +3 bonus to Initiative and can't be &lt;LSTag Type="Status" Tooltip="SURPRISED"&gt;Surprised&lt;/LSTag&gt;.</content> 
-	<content contentuid="h37be07e8ga4ceg4a69gb59bg1c60e1274d5c" version="5">You gain a +[1] bonus to Initiative and can't be &lt;LSTag Type="Status" Tooltip="SURPRISED"&gt;Surprised&lt;/LSTag&gt;.</content> 
+	<content contentuid="h37be07e8ga4ceg4a69gb59bg1c60e1274d5c" version="5">You gain a +[1] bonus to Initiative and can't be &lt;LSTag Type="Status" Tooltip="SURPRISED"&gt;Surprised&lt;/LSTag&gt;.</content>
+	<content contentuid="h7e7cca75g48eag4690g8ebcg697b0108a3cf" version="1">Your &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; increases by 1, to a maximum of 20.&lt;br&gt;&lt;br&gt;Your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; is also doubled for Deception and Performance &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;You gain &lt;LSTag Tooltip="MusicalInstrumentProficiency"&gt;Musical Instrument Proficiency&lt;/LSTag&gt;.</content> 
+	<content contentuid="hcb9140afg6375g41cdgbf43g0e5cf40d968c" version="1">You have become a true thespian. Your &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; increases by [1], to a maximum of [2]. Your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; is doubled for Deception and Performance &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;. You gain &lt;LSTag Tooltip="MusicalInstrumentProficiency"&gt;Musical Instrument Proficiency&lt;/LSTag&gt;.</content>
 </contentList>
 

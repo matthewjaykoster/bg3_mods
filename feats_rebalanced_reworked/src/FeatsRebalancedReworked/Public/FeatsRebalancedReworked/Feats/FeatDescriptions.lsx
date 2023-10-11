@@ -5,6 +5,13 @@
         <node id="root">
             <children>
                 <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h7e7cca75g48eag4690g8ebcg697b0108a3cf" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h043b0a57ga233g4e36ga311g02054a355b31" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Actor"/>
+                    <attribute id="FeatId" type="guid" value="cdcbc538-883b-401c-a8ed-1373fb6d1720"/>
+                    <attribute id="UUID" type="guid" value="18774e39-5d86-4e43-862a-aa4ff69ff24e"/>
+                </node>
+                <node id="FeatDescription">
                     <attribute id="Description" type="TranslatedString" handle="h1b409fdeg5b14g4b5dg80fcg5aa2997263dc" version="3"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h96fd2278gd794g485fg920fg5ffa868bcf87" version="1"/>
                     <attribute id="ExactMatch" type="FixedString" value="Alert"/>

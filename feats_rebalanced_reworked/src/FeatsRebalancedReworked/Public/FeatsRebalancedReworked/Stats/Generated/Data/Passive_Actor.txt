@@ -1,0 +1,8 @@
+new entry "Actor"
+type "PassiveData"
+data "DisplayName" "h76bce77ag0b0cg4dd9gba94gee9f60adf26c;2"
+data "Description" "hcb9140afg6375g41cdgbf43g0e5cf40d968c;1"
+data "DescriptionParams" "1;20"
+data "Icon" "Action_Perform_Voice"
+data "Properties" "Highlighted"
+data "Boosts" "ProficiencyBonus(Skill,Deception);ExpertiseBonus(Deception);ProficiencyBonus(Skill,Performance);ExpertiseBonus(Performance);Proficiency(MusicalInstrument);Ability(Charisma, 1)"
