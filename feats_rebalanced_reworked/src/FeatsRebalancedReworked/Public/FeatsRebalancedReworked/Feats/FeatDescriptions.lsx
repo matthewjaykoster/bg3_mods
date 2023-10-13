@@ -39,6 +39,13 @@
                     <attribute id="FeatId" type="guid" value="71b65667-0eac-4e62-b878-fa862e88ebbf"/>
                     <attribute id="UUID" type="guid" value="5438a1a6-83e6-44dd-813a-b87c0f8fba36"/>
                 </node>
+                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hf3c98a5bgf17fg4f1eg86d9g2b062059aea6" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="haf24377ag8735g4309gb82dg33c5b5018f4e" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ElementalAdept"/>
+                    <attribute id="FeatId" type="guid" value="cec2d95b-451c-40f8-8e17-9e547d363e8e"/>
+                    <attribute id="UUID" type="guid" value="3f4f93f3-4cd5-44e8-8011-ad8017aac378"/>
+                </node>
             </children>
         </node>
     </region>

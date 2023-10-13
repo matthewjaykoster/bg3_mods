@@ -19,6 +19,12 @@
                     <attribute id="PassivesAdded" type="LSString" value="DungeonDelver_Perception;DungeonDelver_ResistTraps;BEN_FRR_DunegonDelver_Spells"/>
                     <attribute id="UUID" type="guid" value="71b65667-0eac-4e62-b878-fa862e88ebbf"/>
                 </node>
+                <node id="Feat">
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="true"/>
+                    <attribute id="Name" type="FixedString" value="ElementalAdept"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(f6b6e71f-79b1-4ba3-8fd8-ee38a44d3d39,2)"/>
+                    <attribute id="UUID" type="guid" value="cec2d95b-451c-40f8-8e17-9e547d363e8e"/>
+                </node>
             </children>
         </node>
     </region>
