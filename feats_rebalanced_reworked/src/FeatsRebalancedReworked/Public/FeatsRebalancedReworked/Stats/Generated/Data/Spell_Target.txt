@@ -1,0 +1,13 @@
+new entry "BEN_FRR_Target_Knock_SR"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_Knock"
+data "Cooldown" "OncePerShortRest"
+data "UseCosts" "ActionPoint:1"
+
+new entry "BEN_FRR_Target_ArcaneLock_SR"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_ArcaneLock"
+data "Cooldown" "OncePerShortRest"
+data "UseCosts" "ActionPoint:1"

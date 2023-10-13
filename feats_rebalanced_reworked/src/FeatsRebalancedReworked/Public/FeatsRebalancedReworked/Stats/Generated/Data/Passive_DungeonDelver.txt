@@ -1,0 +1,7 @@
+new entry "BEN_FRR_DunegonDelver_Spells"
+type "PassiveData"
+data "DisplayName" "h3f820d26gd57fg4defg861eg0dcb3d27c5a8;1"
+data "Description" "h83146935g7d41g4ad9g93fbge29d982b1c4c;1"
+data "Icon" "PassiveFeature_BookOfAncientSecrets"
+data "Properties" "Highlighted"
+data "Boosts" "UnlockSpell(BEN_FRR_Target_Knock_SR);UnlockSpell(BEN_FRR_Target_ArcaneLock_SR)"

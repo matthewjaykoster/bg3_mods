@@ -14,6 +14,11 @@
                     <attribute id="PassivesAdded" type="LSString" value="BEN_FRR_Sturdy_Minor"/>
                     <attribute id="UUID" type="guid" value="56c3c247-35cf-4ffd-86dd-7d249cc1808f"/>
                 </node>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="DungeonDelver"/>
+                    <attribute id="PassivesAdded" type="LSString" value="DungeonDelver_Perception;DungeonDelver_ResistTraps;BEN_FRR_DunegonDelver_Spells"/>
+                    <attribute id="UUID" type="guid" value="71b65667-0eac-4e62-b878-fa862e88ebbf"/>
+                </node>
             </children>
         </node>
     </region>
