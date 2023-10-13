@@ -1,0 +1,8 @@
+new entry "BEN_FRR_Sturdy_Minor"
+type "PassiveData"
+data "DisplayName" "h33f077bcg1834g4794g8e69g5cad254be034;1"
+data "Description" "h27020904g0b93g4b8agaddegfe4c7f29b843;1"
+data "DescriptionParams" "5"
+data "Icon" "statIcons_DamageThreshold_Lesser"
+data "Properties" "Highlighted"
+data "Boosts" "IgnoreDamageThreshold(All,5)"

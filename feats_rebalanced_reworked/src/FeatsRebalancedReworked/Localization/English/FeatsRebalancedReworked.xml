@@ -12,4 +12,7 @@
 	<content contentuid="he04e0ef8g011fg44abg8c8cg20898d6de590" version="1">If you move after making a ranged attack, you don't provoke &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt; from your target, and you can move an additional [1].</content>
 	<content contentuid="h15f3c476gee4dg418ega46eg6dbf5a2d04f7" version="1">Close Quarters Archery: Movement</content>
 	<content contentuid="h0fb3e58cge871g474fgba4dg619a15914fde" version="1">&lt;LSTag Tooltip="MovementSpeed"&gt;Movement speed&lt;/LSTag&gt; is increased by [1].</content>
+	<content contentuid="h17377445gb833g4a46gae15ge3a3e509272c" version="1">When you would take 5 or less damage, you instead take no damage.</content>
+	<content contentuid="h33f077bcg1834g4794g8e69g5cad254be034" version="1">Durable</content>
+	<content contentuid="h27020904g0b93g4b8agaddegfe4c7f29b843" version="1">This character is rather durable. Only a hit that deals at least [1] damage can damage it.</content>
 </contentList>

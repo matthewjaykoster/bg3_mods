@@ -6,8 +6,13 @@
             <children>
                 <node id="Feat">
                     <attribute id="Name" type="FixedString" value="CloseQuartersArchery"/>
-                    <attribute id="PassivesAdded" type="LSString" value="CloseQuartersArchery_PointBlank;CloseQuartersArchery_Movement"/>
+                    <attribute id="PassivesAdded" type="LSString" value="BEN_FRR_CloseQuartersArchery_PointBlank;BEN_FRR_CloseQuartersArchery_Movement"/>
                     <attribute id="UUID" type="guid" value="94a78b4c-a8f2-404f-8cdc-2d454c13cb97"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="Durable"/>
+                    <attribute id="PassivesAdded" type="LSString" value="BEN_FRR_Sturdy_Minor"/>
+                    <attribute id="UUID" type="guid" value="56c3c247-35cf-4ffd-86dd-7d249cc1808f"/>
                 </node>
             </children>
         </node>
