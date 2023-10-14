@@ -25,6 +25,18 @@
                     <attribute id="Selectors" type="LSString" value="SelectPassives(f6b6e71f-79b1-4ba3-8fd8-ee38a44d3d39,2)"/>
                     <attribute id="UUID" type="guid" value="cec2d95b-451c-40f8-8e17-9e547d363e8e"/>
                 </node>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="HeavilyArmored"/>
+                    <attribute id="PassivesAdded" type="LSString" value="BEN_FRR_Well_Armored"/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(499230af-5946-4680-a7ee-4d76d421f2ef,1,1,LightlyArmoredASI)"/>
+                    <attribute id="UUID" type="guid" value="7bc235ac-7eeb-49d3-8249-c3313d87af75"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="LightlyArmored"/>
+                    <attribute id="PassivesAdded" type="LSString" value="BEN_FRR_Light_Armor_Master_Dodge"/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(2e079c18-90a8-4b6d-8e79-8ab35c0e00ad,1,1,LightArmorMasterASI)"/>
+                    <attribute id="UUID" type="guid" value="b441c722-e4d4-4702-861a-039bfd77c124"/>
+                </node>
             </children>
         </node>
     </region>

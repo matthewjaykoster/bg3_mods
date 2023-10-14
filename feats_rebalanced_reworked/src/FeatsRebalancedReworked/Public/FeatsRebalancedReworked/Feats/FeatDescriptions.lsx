@@ -46,6 +46,20 @@
                     <attribute id="FeatId" type="guid" value="cec2d95b-451c-40f8-8e17-9e547d363e8e"/>
                     <attribute id="UUID" type="guid" value="3f4f93f3-4cd5-44e8-8011-ad8017aac378"/>
                 </node>
+                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h81866219ge3d3g4b85gb24fg8a67bc0f4c4f" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha533b90cg3e35g4fa0g91d1ge98fd944a6e7" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="HeavilyArmored"/>
+                    <attribute id="FeatId" type="guid" value="7bc235ac-7eeb-49d3-8249-c3313d87af75"/>
+                    <attribute id="UUID" type="guid" value="8ee6c346-ccdf-4335-a342-a15261051035"/>
+                </node>
+                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hc4e7a0a7gd273g4c4cg9e58g454ef60ca414" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hcef6c882g33afg4894ga976g935c77ad5b27" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="LightlyArmored"/>
+                    <attribute id="FeatId" type="guid" value="b441c722-e4d4-4702-861a-039bfd77c124"/>
+                    <attribute id="UUID" type="guid" value="b12ac1e4-aad8-4cdf-aa22-d92b5757bd50"/>
+                </node>
             </children>
         </node>
     </region>

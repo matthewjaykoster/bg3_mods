@@ -23,4 +23,16 @@
 	<content contentuid="hd3d8475bg5a7dg46afg8656gb5c294fe056a" version="1">Spells you cast ignore &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Radiant damage. In addition, when you deal Radiant damage with a spell, you cannot roll a [1].</content>
 	<content contentuid="h6cc1ff83g21eeg4361g8cffgf8faf2a9615b" version="1">Elemental Adept: Necrotic</content>
 	<content contentuid="h76ae05b6gdab1g40d8gb977g8c589eb527ca" version="1">Spells you cast ignore &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Necrotic damage. In addition, when you deal Necrotic damage with a spell, you cannot roll a [1].</content>
+	<content contentuid="ha533b90cg3e35g4fa0g91d1ge98fd944a6e7" version="1">Well Armored</content>
+	<content contentuid="h81866219ge3d3g4b85gb24fg8a67bc0f4c4f" version="1">You gain &lt;LSTag Tooltip="ArmourProficiency"&gt;Armour Proficiency&lt;/LSTag&gt; with Light Armor, Medium Armor, and Heavy Armour.&lt;br&gt;&lt;br&gt;Your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; or &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; increases by 1, to a maximum of 20.</content>
+	<content contentuid="h79ef519fgee33g495bga53fgb8b332465345" version="1">Well Armored</content>
+	<content contentuid="h2d29c462g306dg498dg9981g081388c07c99" version="1">You gain &lt;LSTag Tooltip="ArmourProficiency"&gt;Armour Proficiency&lt;/LSTag&gt; with Light Armor, Medium Armor, and Heavy Armour.</content>
+	<content contentuid="hcef6c882g33afg4894ga976g935c77ad5b27" version="1">Light Armor Master</content>
+	<content contentuid="hc4e7a0a7gd273g4c4cg9e58g454ef60ca414" version="1">Your &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; score increases by 1.&lt;br&gt;&lt;br&gt;Whenever you are hit by a melee attack, you gain a &lt;LSTag Type="Status" Tooltip="BEN_FRR_LAM_DODGE"&gt;Dodge Charge&lt;/LSTag&gt;, which you can spend to cause an attack to miss, or to automatically succeed a &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; saving throw.</content>
+	<content contentuid="h9a80f5b1gb29dg4a8ag84f5ge1329d2b9af2" version="1">Light Armor Master: Dodge</content>
+	<content contentuid="h03dbc1cagd4ccg4812g8ff5gde3524248d1f" version="1">Whenever you are hit by a melee attack, you gain a &lt;LSTag Type="Status" Tooltip="BEN_FRR_LAM_DODGE"&gt;Dodge Charge&lt;/LSTag&gt;, which you can spend to cause an attack to miss, or to automatically succeed a &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; saving throw.</content>
+	<content contentuid="hf453037dgde7ag464eg9725gda3bce3587c8" version="1">Dodge Charge</content>
+	<content contentuid="he8262b07g6289g4768g9aefgf1f5a6985705" version="1">Spend this charge to cause an attack to miss, or to automatically succeed a &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; saving throw.</content>
+	<content contentuid="h2159a4f6ge2d9g4cedg94cag570864cd9a31" version="1">Dodge Charge</content>
+	<content contentuid="h51d4d5acgf9b1g4f57g8eb6g5ded0c7932b4" version="1">When you are about to be hit by an attack or fail a &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; saving throw, spend a &lt;LSTag Type="Status" Tooltip="BEN_FRR_LAM_DODGE"&gt;Dodge Charge&lt;/LSTag&gt; to dodge the attack or succeed the saving throw.</content>
 </contentList>
