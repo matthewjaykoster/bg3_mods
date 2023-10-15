@@ -60,6 +60,48 @@
                     <attribute id="FeatId" type="guid" value="b441c722-e4d4-4702-861a-039bfd77c124"/>
                     <attribute id="UUID" type="guid" value="b12ac1e4-aad8-4cdf-aa22-d92b5757bd50"/>
                 </node>
+                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hbc6faee7g50b4g4d7egbb5bgcca65b29c420" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h4dc7d85ag3aceg412bga8e6g07103b9d2f75" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="MagicInitiateBard"/>
+                    <attribute id="FeatId" type="guid" value="4f744a6e-8589-4a46-89ab-a95415a73245"/>
+                    <attribute id="UUID" type="guid" value="c3abcd7c-67da-491b-ad6f-d96623fc675f"/>
+                </node>
+                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="ha9131fb0gc7a4g4eb2g989dg210fb143d811" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h5870bec4g6420g4ea8ga493g5121992156c3" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="MagicInitiateCleric"/>
+                    <attribute id="FeatId" type="guid" value="28e5fed3-bd41-4b74-ab48-b8e824ad3443"/>
+                    <attribute id="UUID" type="guid" value="8df4c2d0-cd9e-4473-abd9-45e8073d3e64"/>
+                </node>
+                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hefb6d99ag9d1cg4f82g828fg7cb8bbb00f73" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h520bba07g4665g4ef0gb7e0g2550a2cf7d35" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="MagicInitiateDruid"/>
+                    <attribute id="FeatId" type="guid" value="1e1a9a4d-38f4-4a05-b080-d32c2b872250"/>
+                    <attribute id="UUID" type="guid" value="aaa0c12c-b643-44eb-b419-42ee72c0f2f2"/>
+                </node>
+                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="heea0cddbg9939g4d52gb191gfb96ace5944f" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h8ef56b7fg497fg4c6fgb6f0gf05820bafa4a" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="MagicInitiateSorcerer"/>
+                    <attribute id="FeatId" type="guid" value="93d41226-d7af-495c-b023-08a6af077962"/>
+                    <attribute id="UUID" type="guid" value="4099d9bc-92dc-41fb-8b58-19c2bf8d32c8"/>
+                </node>
+                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h1f95e8f4g2427g4f3fg8596g1f3238861599" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h91fa5d16gbd1dg464cg82cfg36e986f84f2e" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="MagicInitiateWarlock"/>
+                    <attribute id="FeatId" type="guid" value="1e0ac3c4-5bb5-42d7-941c-9de58d919732"/>
+                    <attribute id="UUID" type="guid" value="19681957-adaa-4feb-b813-4413aed56de0"/>
+                </node>
+                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hc881572fgd640g4d92ga69eg922e275d1060" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="he084fbc0gb92fg4116gac6egf0b67d34e1e3" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="MagicInitiateWizard"/>
+                    <attribute id="FeatId" type="guid" value="26c6990b-d9f0-41a2-8108-209789fafc18"/>
+                    <attribute id="UUID" type="guid" value="5670e7db-cbe0-4135-8802-5f33f304346d"/>
+                </node>
             </children>
         </node>
     </region>
