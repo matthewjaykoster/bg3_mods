@@ -32,6 +32,13 @@
                     <attribute id="UUID" type="guid" value="7bc235ac-7eeb-49d3-8249-c3313d87af75"/>
                 </node>
                 <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="HeavyArmorMaster"/>
+                    <attribute id="PassivesAdded" type="LSString" value="BEN_FRR_HeavyArmorMaster"/>
+                    <attribute id="Requirements" type="LSString" value="FeatRequirementProficiency(&apos;HeavyArmor&apos;)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(b45f4690-293f-4fd0-b02e-c38365743bb9,1,1,HeavyArmorMasterASI)"/>
+                    <attribute id="UUID" type="guid" value="0de08fff-ab18-442f-a0b1-f53e7be04c03"/>
+                </node>
+                <node id="Feat">
                     <attribute id="Name" type="FixedString" value="LightlyArmored"/>
                     <attribute id="PassivesAdded" type="LSString" value="BEN_FRR_Light_Armor_Master_Dodge"/>
                     <attribute id="Requirements" type="LSString" value="FeatRequirementProficiency(&apos;LightArmor&apos;)"/>
