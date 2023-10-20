@@ -81,6 +81,17 @@
                     <attribute id="Selectors" type="LSString" value="SelectSpells(3cae2e56-9871-4cef-bba6-96845ea765fa,2,0,MIWizardCantrips,Intelligence,,AlwaysPrepared,,a865965f-501b-46e9-9eaa-7748e8c04d09);SelectSpells(11f331b0-e8b7-473b-9d1f-19e8e4178d7d,1,0,MIWizardSpells,Intelligence,None,AlwaysPrepared,UntilRest,a865965f-501b-46e9-9eaa-7748e8c04d09);SelectSpells(e829d70c-ac5e-4ac9-9cf3-d32e627263d3,1,0,MIWizardSpells,Intelligence,None,AlwaysPrepared,UntilRest,a865965f-501b-46e9-9eaa-7748e8c04d09)"/>
                     <attribute id="UUID" type="guid" value="26c6990b-d9f0-41a2-8108-209789fafc18"/>
                 </node>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="MageSlayer"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MageSlayer_Advantage;MageSlayer_AttackCaster;MageSlayer_BreakConcentration;BEN_FRR_MageSlayer_Spells"/>
+                    <attribute id="UUID" type="guid" value="a533fde7-ee0a-46ce-92e2-9763201a54d2"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="true"/>
+                    <attribute id="Name" type="FixedString" value="MartialAdept"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(6933ba07-b576-40c2-aaa3-4747af259a39,2,BEN_FRR_MAManeuvers)"/>
+                    <attribute id="UUID" type="guid" value="455fc2d5-1c77-40e7-a010-0b51044ae74b"/>
+                </node>
             </children>
         </node>
     </region>

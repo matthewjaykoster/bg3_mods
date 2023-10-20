@@ -8,6 +8,10 @@
                     <attribute id="Passives" type="LSString" value="ElementalAdept_Acid,ElementalAdept_Cold,ElementalAdept_Fire,ElementalAdept_Lightning,ElementalAdept_Thunder,BEN_FRR_ElementalAdept_Radiant,BEN_FRR_ElementalAdept_Necrotic"/>
                     <attribute id="UUID" type="guid" value="f6b6e71f-79b1-4ba3-8fd8-ee38a44d3d39"/>
                 </node>
+                <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="BEN_FRR_MartialAdept_CommanderStrike_Maneuver,BEN_FRR_MartialAdept_FeintingAttack,BEN_FRR_MartialAdept_ManeuveringAttack,BEN_FRR_MartialAdept_Riposte"/>
+                    <attribute id="UUID" type="guid" value="6933ba07-b576-40c2-aaa3-4747af259a39"/>
+                </node>
             </children>
         </node>
     </region>

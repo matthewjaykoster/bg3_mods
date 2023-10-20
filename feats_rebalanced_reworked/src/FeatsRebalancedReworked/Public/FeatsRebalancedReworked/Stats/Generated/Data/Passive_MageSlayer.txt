@@ -1,0 +1,7 @@
+new entry "BEN_FRR_MageSlayer_Spells"
+type "PassiveData"
+data "DisplayName" "h7478b1bfg701fg4957g8ef4gf3a32d0a9d38;1"
+data "Description" "h7c8d802fg4d9bg419fgbd5ag4e6629a0100a;1"
+data "Icon" "Spell_Illusion_Silence"
+data "Properties" "Highlighted"
+data "Boosts" "UnlockSpell(BEN_FRR_MageSlayer_Silence)"

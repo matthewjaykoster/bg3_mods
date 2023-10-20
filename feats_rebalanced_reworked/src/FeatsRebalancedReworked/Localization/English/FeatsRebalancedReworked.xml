@@ -55,5 +55,19 @@
 	<content contentuid="hed1e1b4bg60efg4dbfg9d07g352ae4b48759" version="1">Heavy Armor: Fortitude</content>
 	<content contentuid="h16058c96gd63bg4150g9b6dg02c64108c7a7" version="1">Whenever you take damage while wearing heavy armor, you gain a stack of &lt;LSTag Type="Status" Tooltip="BEN_FRR_HAM_FORTITUDE"&gt;Fortitude&lt;/LSTag&gt;, reducing all damage.</content>
 	<content contentuid="hcc8ff704ge46cg48c8g86dfgc6cf6ade5236" version="1">Heavy Armor: Fortitude</content>
-	<content contentuid="h4e9da06cg1715g413dg8663gd5932b8de708" version="1">Taking hits has made you more resilient, reducing all incoming damage.</content>
+	<content contentuid="h4e9da06cg1715g413dg8663gd5932b8de708" version="1">Taking hits has made you more resilient, reducing all incoming damage by one for each stack.</content>
+	<!--Mage Slayer-->
+	<content contentuid="hef8c7d81g368cg47bagb342g29e097900e46" version="1">When a creature casts a spell within melee range of you, you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on any &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; against it, and you can use a &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; to immediately make an attack against the caster.&lt;br&gt;&lt;br&gt;Enemies you hit have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="Concentration"&gt;Concentration&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;You gain the ability to cast &lt;LSTag Type="Spell" Tooltip="BEN_FRR_MageSlayer_Silence"&gt;Silence&lt;/LSTag&gt; as a bonus action.</content>
+	<content contentuid="h7478b1bfg701fg4957g8ef4gf3a32d0a9d38" version="1">Mage Slayer: Silence</content>
+	<content contentuid="h7c8d802fg4d9bg419fgbd5ag4e6629a0100a" version="1">You can cast &lt;LSTag Type="Spell" Tooltip="BEN_FRR_MageSlayer_Silence"&gt;Silence&lt;/LSTag&gt; as a bonus action.</content>
+	<!--Martial Adept-->
+	<content contentuid="hebed9985g6994g49b4gbdc4gb6103b7bdab7" version="1">Learn two melee Battle Master manoeuvres from an abbreviated list. These manoeuvres do not cost &lt;LSTag Type="ActionResource" Tooltip="SuperiorityDie"&gt;Superiority Die&lt;/LSTag&gt; to use, but can be used only once per turn.</content>
+	<content contentuid="h22341564gd3ffg4f28gbe1dgd14221e3f9ce" version="1">Martial Adept: Commander's Strike</content>
+	<content contentuid="h8fe00f1fg2a0cg4441g87bag37c295754f4f" version="1">Spend an action and a reaction to direct an ally to strike a foe. The ally immediately uses their &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; to make a weapon attack.</content>
+	<content contentuid="hd564b203g82f3g4e79g87dfg744999ef8468" version="1">Martial Adept: Feinting Attack</content>
+	<content contentuid="h85633587g1582g4a09g8128gbedaf18693fe" version="1">You can use both your action and bonus action on a turn to attack a target with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; and deal an additional [1] damage.</content>
+	<content contentuid="h3796eb76g765fg4863ga6c0gcc2fbbe78504" version="1">Martial Adept: Maneuvering Attack</content>
+	<content contentuid="hc1d42619gd5b4g4fabga9a9gd4f9a0e0974b" version="1">You may make an attack that deals an additional [1] damage. On hit, select a friendly creature to gain half its movement speed. It will not provoke attacks of opportunity.</content>
+	<content contentuid="h042377b0ge1b1g4173g9071g1f259cb05916" version="1">Martial Adept: Riposte</content>
+	<content contentuid="h69beb1e4gb78dg4d9agaa69g95b105fbaebd" version="1">When a hostile creature misses you with a melee attack, you may retaliate with a powerful strike that deals an additional [1] damage.</content>
 </contentList>
