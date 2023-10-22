@@ -34,15 +34,9 @@
 	<content contentuid="h81866219ge3d3g4b85gb24fg8a67bc0f4c4f" version="1">You gain &lt;LSTag Tooltip="ArmourProficiency"&gt;Armour Proficiency&lt;/LSTag&gt; with Light Armor, Medium Armor, and Heavy Armour.&lt;br&gt;&lt;br&gt;Your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; or &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; increases by 1, to a maximum of 20.</content>
 	<content contentuid="h79ef519fgee33g495bga53fgb8b332465345" version="1">Well Armored</content>
 	<content contentuid="h2d29c462g306dg498dg9981g081388c07c99" version="1">You gain &lt;LSTag Tooltip="ArmourProficiency"&gt;Armour Proficiency&lt;/LSTag&gt; with Light Armor, Medium Armor, and Heavy Armour.</content>
-	<!--Light Armor Master (formelry Lightly Armored)-->
-	<content contentuid="hcef6c882g33afg4894ga976g935c77ad5b27" version="1">Light Armor Master</content>
-	<content contentuid="hc4e7a0a7gd273g4c4cg9e58g454ef60ca414" version="1">Your &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; score increases by 1.&lt;br&gt;&lt;br&gt;Whenever you are hit by a melee attack while wearing Light Armor, you gain a &lt;LSTag Type="Status" Tooltip="BEN_FRR_LAM_DODGE"&gt;Dodge Charge&lt;/LSTag&gt;, which you can spend to cause an attack to miss, or to automatically succeed a &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; saving throw.</content>
-	<content contentuid="h9a80f5b1gb29dg4a8ag84f5ge1329d2b9af2" version="1">Light Armor Master: Dodge</content>
-	<content contentuid="h03dbc1cagd4ccg4812g8ff5gde3524248d1f" version="1">Whenever you are hit by a melee attack while wearing Light Armor, you gain a &lt;LSTag Type="Status" Tooltip="BEN_FRR_LAM_DODGE"&gt;Dodge Charge&lt;/LSTag&gt;, which you can spend to cause an attack to miss, or to automatically succeed a &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; saving throw.</content>
-	<content contentuid="hf453037dgde7ag464eg9725gda3bce3587c8" version="1">Dodge Charge</content>
-	<content contentuid="he8262b07g6289g4768g9aefgf1f5a6985705" version="1">Spend this charge to cause an attack to miss, or to automatically succeed a &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; saving throw.</content>
-	<content contentuid="h2159a4f6ge2d9g4cedg94cag570864cd9a31" version="1">Dodge Charge</content>
-	<content contentuid="h51d4d5acgf9b1g4f57g8eb6g5ded0c7932b4" version="1">When you are about to be hit by an attack or fail a &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; saving throw, spend a &lt;LSTag Type="Status" Tooltip="BEN_FRR_LAM_DODGE"&gt;Dodge Charge&lt;/LSTag&gt; to dodge the attack or succeed the saving throw.</content>
+	<!--Light Armor Master (formerly Lightly Armored)-->
+	<!--TODO-->
+
 	<!--Magic Initiate-->
 	<content contentuid="hbc6faee7g50b4g4d7egbb5bgcca65b29c420" version="1">You learn 2 &lt;LSTag Tooltip="Cantrip"&gt;cantrips&lt;/LSTag&gt;, a Level 1 spell, and a Level 2 from the bard spell list. You can cast the Level 1 and 2 spells once per &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;. Your &lt;LSTag Tooltip="SpellcastingAbility"&gt;Spellcasting Ability&lt;/LSTag&gt; for all 4 spells is Charisma.</content>
 	<content contentuid="ha9131fb0gc7a4g4eb2g989dg210fb143d811" version="1">You learn 2 &lt;LSTag Tooltip="Cantrip"&gt;cantrips&lt;/LSTag&gt;, a Level 1 spell, and a Level 2 from the cleric spell list. You can cast the Level 1 and 2 spells once per &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;. Your &lt;LSTag Tooltip="SpellcastingAbility"&gt;Spellcasting Ability&lt;/LSTag&gt; for all 4 spells is Wisdom.</content>
@@ -70,4 +64,13 @@
 	<content contentuid="hc1d42619gd5b4g4fabga9a9gd4f9a0e0974b" version="1">You may make an attack that deals an additional [1] damage. On hit, select a friendly creature to gain half its movement speed. It will not provoke attacks of opportunity.</content>
 	<content contentuid="h042377b0ge1b1g4173g9071g1f259cb05916" version="1">Martial Adept: Riposte</content>
 	<content contentuid="h69beb1e4gb78dg4d9agaa69g95b105fbaebd" version="1">When a hostile creature misses you with a melee attack, you may retaliate with a powerful strike that deals an additional [1] damage.</content>
+	<!--Unarmored Master (formerly Moderately Armored)-->
+	<content contentuid="hcef6c882g33afg4894ga976g935c77ad5b27" version="1">Unarmored Master</content>
+	<content contentuid="hc4e7a0a7gd273g4c4cg9e58g454ef60ca414" version="1">Your &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; score increases by 1.&lt;br&gt;&lt;br&gt;Whenever you are hit by a melee attack while wearing no armor or shield, you gain a &lt;LSTag Type="Status" Tooltip="BEN_FRR_UAM_DODGE"&gt;Dodge Charge&lt;/LSTag&gt;, which you can spend to cause an attack to miss, or to automatically succeed a &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; saving throw.</content>
+	<content contentuid="h9a80f5b1gb29dg4a8ag84f5ge1329d2b9af2" version="1">Unarmored Master: Dodge</content>
+	<content contentuid="h03dbc1cagd4ccg4812g8ff5gde3524248d1f" version="1">Whenever you are hit by a melee attack while wearing no armor or shield, you gain a &lt;LSTag Type="Status" Tooltip="BEN_FRR_UAM_DODGE"&gt;Dodge Charge&lt;/LSTag&gt;, which you can spend to cause an attack to miss, or to automatically succeed a &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; saving throw.</content>
+	<content contentuid="hf453037dgde7ag464eg9725gda3bce3587c8" version="1">Dodge Charge</content>
+	<content contentuid="he8262b07g6289g4768g9aefgf1f5a6985705" version="1">Spend this charge to cause an attack to miss, or to automatically succeed a &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; saving throw.</content>
+	<content contentuid="h2159a4f6ge2d9g4cedg94cag570864cd9a31" version="1">Dodge Charge</content>
+	<content contentuid="h51d4d5acgf9b1g4f57g8eb6g5ded0c7932b4" version="1">When you are about to be hit by an attack or fail a &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; saving throw, spend a &lt;LSTag Type="Status" Tooltip="BEN_FRR_UAM_DODGE"&gt;Dodge Charge&lt;/LSTag&gt; to dodge the attack or succeed the saving throw.</content>
 </contentList>

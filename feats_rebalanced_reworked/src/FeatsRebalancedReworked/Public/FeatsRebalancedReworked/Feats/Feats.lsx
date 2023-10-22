@@ -38,13 +38,13 @@
                     <attribute id="Selectors" type="LSString" value="SelectAbilities(b45f4690-293f-4fd0-b02e-c38365743bb9,1,1,HeavyArmorMasterASI)"/>
                     <attribute id="UUID" type="guid" value="0de08fff-ab18-442f-a0b1-f53e7be04c03"/>
                 </node>
-                <node id="Feat">
+                <!--<node id="Feat">
                     <attribute id="Name" type="FixedString" value="LightlyArmored"/>
-                    <attribute id="PassivesAdded" type="LSString" value="BEN_FRR_Light_Armor_Master_Dodge"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="Requirements" type="LSString" value="FeatRequirementProficiency(&apos;LightArmor&apos;)"/>
                     <attribute id="Selectors" type="LSString" value="SelectAbilities(2e079c18-90a8-4b6d-8e79-8ab35c0e00ad,1,1,LightArmorMasterASI)"/>
                     <attribute id="UUID" type="guid" value="b441c722-e4d4-4702-861a-039bfd77c124"/>
-                </node>
+                </node>-->
                 <node id="Feat">
                     <attribute id="Name" type="FixedString" value="MagicInitiateBard"/>
                     <attribute id="PassivesAdded" type="LSString" value="MagicInitiate_Bard"/>
@@ -91,6 +91,12 @@
                     <attribute id="Name" type="FixedString" value="MartialAdept"/>
                     <attribute id="Selectors" type="LSString" value="SelectPassives(6933ba07-b576-40c2-aaa3-4747af259a39,2,BEN_FRR_MAManeuvers)"/>
                     <attribute id="UUID" type="guid" value="455fc2d5-1c77-40e7-a010-0b51044ae74b"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="ModeratelyArmored"/>
+                    <attribute id="PassivesAdded" type="LSString" value="BEN_FRR_Unarmored_Armor_Master_Dodge"/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(2e079c18-90a8-4b6d-8e79-8ab35c0e00ad,1,1,LightArmorMasterASI)"/>
+                    <attribute id="UUID" type="guid" value="681d5307-f0ed-4c94-8cf0-db0c51116f56"/>
                 </node>
             </children>
         </node>

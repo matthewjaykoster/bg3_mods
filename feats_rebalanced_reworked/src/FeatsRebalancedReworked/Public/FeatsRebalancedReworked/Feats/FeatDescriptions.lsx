@@ -60,13 +60,13 @@
                     <attribute id="FeatId" type="guid" value="0de08fff-ab18-442f-a0b1-f53e7be04c03"/>
                     <attribute id="UUID" type="guid" value="91ab8967-1a89-490b-882c-36b9db4d7ed4"/>
                 </node>
-                <node id="FeatDescription">
+                <!-- <node id="FeatDescription">
                     <attribute id="Description" type="TranslatedString" handle="hc4e7a0a7gd273g4c4cg9e58g454ef60ca414" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hcef6c882g33afg4894ga976g935c77ad5b27" version="1"/>
                     <attribute id="ExactMatch" type="FixedString" value="LightlyArmored"/>
                     <attribute id="FeatId" type="guid" value="b441c722-e4d4-4702-861a-039bfd77c124"/>
                     <attribute id="UUID" type="guid" value="b12ac1e4-aad8-4cdf-aa22-d92b5757bd50"/>
-                </node>
+                </node> -->
                 <node id="FeatDescription">
                     <attribute id="Description" type="TranslatedString" handle="hbc6faee7g50b4g4d7egbb5bgcca65b29c420" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h4dc7d85ag3aceg412bga8e6g07103b9d2f75" version="1"/>
@@ -122,6 +122,13 @@
                     <attribute id="ExactMatch" type="FixedString" value="MartialAdept"/>
                     <attribute id="FeatId" type="guid" value="455fc2d5-1c77-40e7-a010-0b51044ae74b"/>
                     <attribute id="UUID" type="guid" value="282f1e7e-33a5-400a-adf4-dff59dc2629c"/>
+                </node>
+                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hc4e7a0a7gd273g4c4cg9e58g454ef60ca414" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hcef6c882g33afg4894ga976g935c77ad5b27" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ModeratelyArmored"/>
+                    <attribute id="FeatId" type="guid" value="681d5307-f0ed-4c94-8cf0-db0c51116f56"/>
+                    <attribute id="UUID" type="guid" value="3ff13547-e5dd-4c26-955f-ec02535defa2"/>
                 </node>
             </children>
         </node>
