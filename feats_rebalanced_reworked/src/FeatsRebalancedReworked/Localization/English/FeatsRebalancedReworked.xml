@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList>
-	<!--Alert-->
-	<content contentuid="h1b409fdeg5b14g4b5dg80fcg5aa2997263dc" version="3">You gain a +3 bonus to Initiative and can't be &lt;LSTag Type="Status" Tooltip="SURPRISED"&gt;Surprised&lt;/LSTag&gt;.</content> 
-	<content contentuid="h37be07e8ga4ceg4a69gb59bg1c60e1274d5c" version="5">You gain a +[1] bonus to Initiative and can't be &lt;LSTag Type="Status" Tooltip="SURPRISED"&gt;Surprised&lt;/LSTag&gt;.</content>
 	<!--Actor-->
 	<content contentuid="h7e7cca75g48eag4690g8ebcg697b0108a3cf" version="1">Your &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; increases by 1, to a maximum of 20.&lt;br&gt;&lt;br&gt;Your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; is also doubled for Deception and Performance &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;You gain &lt;LSTag Tooltip="MusicalInstrumentProficiency"&gt;Musical Instrument Proficiency&lt;/LSTag&gt;.</content> 
 	<content contentuid="hcb9140afg6375g41cdgbf43g0e5cf40d968c" version="1">You have become a true thespian. Your &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; increases by [1], to a maximum of [2]. Your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; is doubled for Deception and Performance &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;. You gain &lt;LSTag Tooltip="MusicalInstrumentProficiency"&gt;Musical Instrument Proficiency&lt;/LSTag&gt;.</content>
+	<!--Alert-->
+	<content contentuid="h1b409fdeg5b14g4b5dg80fcg5aa2997263dc" version="1">You gain a +2 bonus to Initiative and can't be &lt;LSTag Type="Status" Tooltip="SURPRISED"&gt;Surprised&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;During you first turn in combat, you have an amount of temporary hit points equal to your current level, and you have &lt;LSTag Type="Status" Tooltip="FREEDOM_OF_MOVEMENT"&gt;Freedom of Movement&lt;/LSTag&gt;.</content> 
+	<content contentuid="h37be07e8ga4ceg4a69gb59bg1c60e1274d5c" version="1">You gain a +[1] bonus to Initiative and can't be &lt;LSTag Type="Status" Tooltip="SURPRISED"&gt;Surprised&lt;/LSTag&gt;.</content>
+	<content contentuid="hb3ae4576gbc4fg404bg8ee9g8b652d8a79df" version="1">Alert: Ready for Anything</content>
+	<content contentuid="h09be7e60g74deg455bga130g8be32255aa2d" version="1">During you first turn in combat, you have an amount of temporary hit points equal to your current level, and you have &lt;LSTag Type="Status" Tooltip="FREEDOM_OF_MOVEMENT"&gt;Freedom of Movement&lt;/LSTag&gt;.</content>
+	<content contentuid="h49e9fb01g8a2bg4139g9118ge6d50162bb73" version="1">Alert: Ready for Anything</content>
+	<content contentuid="h0cd26bebg40aag41d4ga22bg47a2bffb8a6d" version="1">You have temporary hit points equal to your current level.</content>
 	<!--Close Quarters Archey (formerly Crossbow Expert)-->
 	<content contentuid="h0d8b76e3gb721g451bgb236g82b4aeec3826" version="1">Close Quarters Archery</content> 
 	<content contentuid="h7f1b5f4fgcb96g4282ga61agae4b6fe57c9e" version="1">Close Quarters Archery: Point-Blank</content>
@@ -29,13 +33,19 @@
 	<content contentuid="hd3d8475bg5a7dg46afg8656gb5c294fe056a" version="1">Spells you cast ignore &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Radiant damage. In addition, when you deal Radiant damage with a spell, you cannot roll a [1].</content>
 	<content contentuid="h6cc1ff83g21eeg4361g8cffgf8faf2a9615b" version="1">Elemental Adept: Necrotic</content>
 	<content contentuid="h76ae05b6gdab1g40d8gb977g8c589eb527ca" version="1">Spells you cast ignore &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Necrotic damage. In addition, when you deal Necrotic damage with a spell, you cannot roll a [1].</content>
+	<!--Heavy Armor Master-->
+	<content contentuid="hbdf89461gb655g482ag8197gd7f2e5f029a2" version="1">Your &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; increases by 1, to a maximum of 20.&lt;br&gt;&lt;br&gt;Whenever you take damage while wearing Heavy Armor, you gain a stack of &lt;LSTag Type="Status" Tooltip="BEN_FRR_HAM_FORTITUDE"&gt;Fortitude&lt;/LSTag&gt;, reducing all damage.</content>
+	<content contentuid="hed1e1b4bg60efg4dbfg9d07g352ae4b48759" version="1">Heavy Armor: Fortitude</content>
+	<content contentuid="h16058c96gd63bg4150g9b6dg02c64108c7a7" version="1">Whenever you take damage while wearing heavy armor, you gain a stack of &lt;LSTag Type="Status" Tooltip="BEN_FRR_HAM_FORTITUDE"&gt;Fortitude&lt;/LSTag&gt;, reducing all damage.</content>
+	<content contentuid="hcc8ff704ge46cg48c8g86dfgc6cf6ade5236" version="1">Heavy Armor: Fortitude</content>
+	<content contentuid="h4e9da06cg1715g413dg8663gd5932b8de708" version="1">Taking hits has made you more resilient, reducing all incoming damage by one for each stack.</content>
 	<!--Light Armor Master (formerly Lightly Armored)-->
-	<content contentuid="h07e0459ag8b2ag40cbgbec2g6b5718e746d7" version="1">Light Armor Master</content>
-	<content contentuid="h1ee90d3fg6daag426dgb9bbgb01e14de379c" version="1">Your &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; score increases by 1, to a maxium of 20.&lt;br&gt;&lt;br&gt;When you deal damage with a melee attack, you gain 3 temporary HP (stacking). This temporary HP expires at the start of your next turn.</content>
-	<content contentuid="h99dfb260gc3d8g470fga17cg50c55bdb09a9" version="1">Light Armor Master: Vim and Vigor</content>
-	<content contentuid="h1d6855cfg7368g467bg98fcg350eb557c053" version="1">When you deal damage with a melee attack, you gain 3 temporary HP, increasing by 3 every time you deal damage. This temporary HP expires at the start of your next turn.</content>
-	<content contentuid="hd4695392gfb13g45edga030gb0bb259e07e0" version="1">Vim and Vigor</content>
-	<content contentuid="hc2328268g1dd2g4607g9cbdg294ebd456cf5" version="1">Dealing damage has granted you temporary HP.</content>
+	<content contentuid="hae51f077g9e0bg4e12gbd30gd85070803bdc" version="1">Light Armor Master</content>
+	<content contentuid="ha2537409g12f6g4a09g9ecag834f31972450" version="1">Your &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; score increases by 1, to a maxium of 20.&lt;br&gt;&lt;br&gt;While wearing Light Armor in combat, you reduce incoming damage based on how far you've moved until your next turn.</content>
+	<content contentuid="hf081601bg90f9g40a6g87a0g3c5e8aaea44d" version="1">Light Armor Master: Fancy Footwork</content>
+	<content contentuid="h2e651493g6315g4d43gb0abgee742552ef4c" version="1">While wearing Light Armor in combat, you reduce incoming damage based on how far you've moved until your next turn.</content>
+	<content contentuid="h08c04997gd7ccg4ce1gaee2g98d84573c627" version="1">Light Armor Master: Fancy Footwork</content>
+	<content contentuid="hcf224ad1g9fe6g41b3g9a37g16bc0578e61c" version="1">Damage you take is reduced by 1 for every [1] of movement.</content>
 	<!--Magic Initiate-->
 	<content contentuid="hbc6faee7g50b4g4d7egbb5bgcca65b29c420" version="1">You learn 2 &lt;LSTag Tooltip="Cantrip"&gt;cantrips&lt;/LSTag&gt;, a Level 1 spell, and a Level 2 from the bard spell list. You can cast the Level 1 and 2 spells once per &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;. Your &lt;LSTag Tooltip="SpellcastingAbility"&gt;Spellcasting Ability&lt;/LSTag&gt; for all 4 spells is Charisma.</content>
 	<content contentuid="ha9131fb0gc7a4g4eb2g989dg210fb143d811" version="1">You learn 2 &lt;LSTag Tooltip="Cantrip"&gt;cantrips&lt;/LSTag&gt;, a Level 1 spell, and a Level 2 from the cleric spell list. You can cast the Level 1 and 2 spells once per &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;. Your &lt;LSTag Tooltip="SpellcastingAbility"&gt;Spellcasting Ability&lt;/LSTag&gt; for all 4 spells is Wisdom.</content>
@@ -43,12 +53,6 @@
 	<content contentuid="heea0cddbg9939g4d52gb191gfb96ace5944f" version="1">You learn 2 &lt;LSTag Tooltip="Cantrip"&gt;cantrips&lt;/LSTag&gt;, a Level 1 spell, and a Level 2 from the sorcerer spell list. You can cast the Level 1 and 2 spells once per &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;. Your &lt;LSTag Tooltip="SpellcastingAbility"&gt;Spellcasting Ability&lt;/LSTag&gt; for all 4 spells is Charisma.</content>
 	<content contentuid="h1f95e8f4g2427g4f3fg8596g1f3238861599" version="1">You learn 2 &lt;LSTag Tooltip="Cantrip"&gt;cantrips&lt;/LSTag&gt;, a Level 1 spell, and a Level 2 from the warlock spell list. You can cast the Level 1 and 2 spells once per &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;. Your &lt;LSTag Tooltip="SpellcastingAbility"&gt;Spellcasting Ability&lt;/LSTag&gt; for all 4 spells is Charisma.</content>
 	<content contentuid="hc881572fgd640g4d92ga69eg922e275d1060" version="1">You learn 2 &lt;LSTag Tooltip="Cantrip"&gt;cantrips&lt;/LSTag&gt;, a Level 1 spell, and a Level 2 from the wizard spell list. You can cast the Level 1 and 2 spells once per &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;. Your &lt;LSTag Tooltip="SpellcastingAbility"&gt;Spellcasting Ability&lt;/LSTag&gt; for all 4 spells is Intelligence.</content>
-	<!--Heavy Armor Master-->
-	<content contentuid="hbdf89461gb655g482ag8197gd7f2e5f029a2" version="1">Your &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; increases by 1, to a maximum of 20.&lt;br&gt;&lt;br&gt;Whenever you take damage while wearing Heavy Armor, you gain a stack of &lt;LSTag Type="Status" Tooltip="BEN_FRR_HAM_FORTITUDE"&gt;Fortitude&lt;/LSTag&gt;, reducing all damage.</content>
-	<content contentuid="hed1e1b4bg60efg4dbfg9d07g352ae4b48759" version="1">Heavy Armor: Fortitude</content>
-	<content contentuid="h16058c96gd63bg4150g9b6dg02c64108c7a7" version="1">Whenever you take damage while wearing heavy armor, you gain a stack of &lt;LSTag Type="Status" Tooltip="BEN_FRR_HAM_FORTITUDE"&gt;Fortitude&lt;/LSTag&gt;, reducing all damage.</content>
-	<content contentuid="hcc8ff704ge46cg48c8g86dfgc6cf6ade5236" version="1">Heavy Armor: Fortitude</content>
-	<content contentuid="h4e9da06cg1715g413dg8663gd5932b8de708" version="1">Taking hits has made you more resilient, reducing all incoming damage by one for each stack.</content>
 	<!--Mage Slayer-->
 	<content contentuid="hef8c7d81g368cg47bagb342g29e097900e46" version="1">When a creature casts a spell within melee range of you, you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on any &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; against it, and you can use a &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; to immediately make an attack against the caster.&lt;br&gt;&lt;br&gt;Enemies you hit have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="Concentration"&gt;Concentration&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;You gain the ability to cast &lt;LSTag Type="Spell" Tooltip="BEN_FRR_MageSlayer_Silence"&gt;Silence&lt;/LSTag&gt; as a bonus action.</content>
 	<content contentuid="h7478b1bfg701fg4957g8ef4gf3a32d0a9d38" version="1">Mage Slayer: Silence</content>
@@ -64,11 +68,29 @@
 	<content contentuid="h042377b0ge1b1g4173g9071g1f259cb05916" version="1">Martial Adept: Riposte</content>
 	<content contentuid="h69beb1e4gb78dg4d9agaa69g95b105fbaebd" version="1">When a hostile creature misses you with a melee attack, you may retaliate with a powerful strike that deals an additional [1] damage.</content>
 	<!--Medium Armor Master-->
-	<content contentuid="hc3dd89e8g346ag4121ga4a1g9720e2d76759" version="1">Medium Armor Master</content>
-	<content contentuid="h5ef9b4f6g7412g42f3g9d05ga3ef83db9518" version="1">Your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; or &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; score increases by 1, to a maxium of 20.&lt;br&gt;&lt;br&gt;While wearing Medium Armor, when you are afflicted by most negative status conditions, you become resistant to all damage for two turns.</content>
-	<content contentuid="h04aa93b2g6b78g4af6ga5ebg1d97a9604f6f" version="1">Medium Armor Master</content>
-	<content contentuid="h42c56c35g9464g444eg924cga838326eb2d5" version="1">While wearing Medium Armor, when you are afflicted by most negative status conditions, you become resistant to all damage for two turns.</content>
-	<content contentuid="hf19499f8gfc8ag42a0gb857gf882e2a14b88" version="1">Medium Armor Master: Reactive Armor</content>
+	<content contentuid="h07e0459ag8b2ag40cbgbec2g6b5718e746d7" version="1">Medium Armor Master</content>
+	<content contentuid="h1ee90d3fg6daag426dgb9bbgb01e14de379c" version="1">Your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; or &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; score increases by 1, to a maxium of 20.&lt;br&gt;&lt;br&gt;When you deal damage with a melee attack while wearing Medium Armor, you gain 3 temporary HP (stacking). This temporary HP expires at the start of your next turn.</content>
+	<content contentuid="h99dfb260gc3d8g470fga17cg50c55bdb09a9" version="1">Medium Armor Master: Vim and Vigor</content>
+	<content contentuid="h1d6855cfg7368g467bg98fcg350eb557c053" version="1">When you deal damage with a melee attack while wearing Medium Armor, you gain 3 temporary HP, increasing by 3 every time you deal damage. This temporary HP expires at the start of your next turn.</content>
+	<content contentuid="hd4695392gfb13g45edga030gb0bb259e07e0" version="1">Vim and Vigor</content>
+	<content contentuid="hc2328268g1dd2g4607g9cbdg294ebd456cf5" version="1">Dealing damage has granted you temporary HP.</content>
+	<!--Performer-->
+	<content contentuid="h466a9b83gb5abg450dgbd87gf7148c423cfe" version="1">Performer</content>
+	<content contentuid="he6f20263g5318g4c48g989dg006538e18c8d" version="1">You gain &lt;LSTag Tooltip="MusicalInstrumentProficiency"&gt;Musical Instrument Proficiency&lt;/LSTag&gt;, and your &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; increases by 1, to a maximum of 20.&lt;br&gt;&lt;br&gt;When you play an instrument, your allies are inspired. Depending on the song you play, they increase their attack rolls, saving throws, or damage by a small amount.</content>
+	<content contentuid="h8a02c44fg2297g4a19g99fdg6e2ee6b4bdb5" version="1">Performer: Inspiring Songs</content>
+	<content contentuid="h5eff43c7g48b1g49d4g9644gd5bad0cd3135" version="1">When you play an instrument, your allies are inspired. Depending on the song you play, they increase their attack rolls, saving throws, or damage by a small amount.</content>
+	<content contentuid="h4a26bb21g4da4g479cg90b3g8df76d1402eb" version="1">Inspiring Songs</content>
+	<content contentuid="h63a28f17g8421g4a5ag9680gbb433c66d8a9" version="1">Your music is inspring your allies...</content>
+	<content contentuid="h908a590dgab86g4b41g8820g02aaf939c371" version="1">Inspired by Song</content>
+	<content contentuid="h4c0678bag29e5g45bagaee2g8302884371cf" version="1">Your ally's music inspires you. Your attacks deal an additional 1d4 damage.</content>
+	<content contentuid="h90d3e176ga92fg45d5g8cf0g21308c00378b" version="1">Your ally's music inspires you. Your saving throws are increased by 1.</content>
+	<content contentuid="h370a6c0bg3babg4c56gb532g59152a739bf4" version="1">Your ally's music inspires you. Your attack rolls are increased by 1.</content>
+	<!--Tough-->
+	<content contentuid="hc3dd89e8g346ag4121ga4a1g9720e2d76759" version="1">Tough</content>
+	<content contentuid="h5ef9b4f6g7412g42f3g9d05ga3ef83db9518" version="1">When you are afflicted by most negative status conditions, you become resistant to all damage until your next turn.</content>
+	<content contentuid="h04aa93b2g6b78g4af6ga5ebg1d97a9604f6f" version="1">Tough</content>
+	<content contentuid="h5ef9b4f6g7412g42f3g9d05ga3ef83db9518" version="1">When you are afflicted by most negative status conditions, you become resistant to all damage until your next turn.</content>
+	<content contentuid="hf19499f8gfc8ag42a0gb857gf882e2a14b88" version="1">Tough: Pure Grit</content>
 	<content contentuid="h161c177egfc62g405dg8471gb760756f77c6" version="1">You have recently been afflicted with a negative status condition. You have resistance to all damage.</content>
 	<!--Unarmored Master (formerly Moderately Armored)-->
 	<content contentuid="hcef6c882g33afg4894ga976g935c77ad5b27" version="1">Unarmored Master</content>

@@ -1,0 +1,8 @@
+new entry "BEN_FRR_Performer_Auras"
+type "PassiveData"
+data "DisplayName" "h8a02c44fg2297g4a19g99fdg6e2ee6b4bdb5;1"
+data "Description" "h5eff43c7g48b1g49d4g9644gd5bad0cd3135;1"
+data "Icon" "Action_Song_OfDivinityAndSin"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnStatusApplied"
+data "StatsFunctors" "IF(StatusId('PERFORM_POSITIVE_THEPOWER') or StatusId('PERFORM_POSITIVE_DOS2_1')):ApplyStatus(SELF, BEN_FRR_PERFORM_AURA_THE_POWER, 100, -1);IF(StatusId('PERFORM_POSITIVE_STARGAZING') or StatusId('PERFORM_POSITIVE_DOS2_2')):ApplyStatus(SELF, BEN_FRR_PERFORM_AURA_STARGAZING, 100, -1);IF(StatusId('PERFORM_POSITIVE_BARDDANCE') or StatusId('PERFORM_POSITIVE_DOS2_3')):ApplyStatus(SELF, BEN_FRR_PERFORM_AURA_BARDDANCE, 100, -1)"
