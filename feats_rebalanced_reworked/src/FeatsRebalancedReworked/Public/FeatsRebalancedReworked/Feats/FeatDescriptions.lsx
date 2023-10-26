@@ -131,6 +131,27 @@
                     <attribute id="UUID" type="guid" value="4dcb182b-3d98-406c-845a-fed95f3f8711"/>
                 </node>
                 <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hcad1ee16g75aag416eg8ab1gd37db99078e0" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha7c4e2fag1168g4275g9cadg5038645ea85f" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="PolearmMaster"/>
+                    <attribute id="FeatId" type="guid" value="fdf0be80-cc1e-4501-bd2e-7a1ea737362c"/>
+                    <attribute id="UUID" type="guid" value="9f9e19ea-117e-4717-acd8-9370e9956d07"/>
+                </node>
+                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="TODO" version=""/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h272c92eag97cag4e32g9659g1c947e14a32d" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="SavageAttacker"/>
+                    <attribute id="FeatId" type="guid" value="e061a323-3430-4cff-88d3-5eae7a1779a4"/>
+                    <attribute id="UUID" type="guid" value="5551971b-22e1-4107-afe0-28d568fb3446"/>
+                </node>
+                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h61e1292eg9e9cg441fg897cg231175bbd105" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h29babc87g541ag403bgba9dg41739c982db9" version="2"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Sentinel"/>
+                    <attribute id="FeatId" type="guid" value="816b1554-9384-49e9-aaa0-05dd622e60f7"/>
+                    <attribute id="UUID" type="guid" value="5a63d60f-5dea-423f-8acf-14b76da93a50"/>
+                </node>
+                <node id="FeatDescription">
                     <attribute id="Description" type="TranslatedString" handle="h5ef9b4f6g7412g42f3g9d05ga3ef83db9518" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hc3dd89e8g346ag4121ga4a1g9720e2d76759" version="1"/>
                     <attribute id="ExactMatch" type="FixedString" value="Tough"/>

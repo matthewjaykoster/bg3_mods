@@ -1,4 +1,13 @@
-new entry "Interrupt_Unarmored_Master_Dodge"
+new entry "BEN_FRR_Interrupt_PolearmMaster"
+type "InterruptData"
+using "Interrupt_PolearmMaster"
+data "Properties" "IF(not HasPassive('BEN_FRR_Sentinel_ZeroSpeed',context.Source)):UseAttack();IF(HasPassive('BEN_FRR_Sentinel_ZeroSpeed',context.Source)):UseSpell(BEN_FRR_Target_Sentinel_AttackOfOpportunity,true,true,true)"
+
+new entry "BEN_FRR_Interrupt_Sentinel"
+type "InterruptData"
+using "Interrupt_Sentinel"
+
+new entry "BEN_FRR_Interrupt_Unarmored_Master_Dodge"
 type "InterruptData"
 data "DisplayName" "h2159a4f6ge2d9g4cedg94cag570864cd9a31;1"
 data "Description" "h51d4d5acgf9b1g4f57g8eb6g5ded0c7932b4;1"

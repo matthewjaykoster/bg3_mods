@@ -1,0 +1,5 @@
+new entry "BEN_FRR_PolearmMaster_AttackOfOpportunity"
+type "PassiveData"
+using "PolearmMaster_AttackOfOpportunity"
+data "Description" "h3b7d8ffbg6452g46d0gb707gce4183fc43a9;1"
+data "Boosts" "UnlockInterrupt(BEN_FRR_Interrupt_PolearmMaster)"
