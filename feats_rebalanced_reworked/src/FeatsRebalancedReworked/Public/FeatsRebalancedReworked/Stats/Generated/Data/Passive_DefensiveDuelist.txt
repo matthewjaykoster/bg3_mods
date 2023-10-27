@@ -1,0 +1,5 @@
+new entry "BEN_FRR_DefensiveDuelist"
+type "PassiveData"
+using "DefensiveDuelist"
+data "Description" "h69fec30bga7c1g4e01g8c56gd77f0aa38860;1"
+data "Boosts" "UnlockInterrupt(BEN_FRR_Interrupt_DefensiveDuelist)"

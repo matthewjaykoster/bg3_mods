@@ -1,3 +1,11 @@
+new entry "BEN_FRR_Interrupt_DefensiveDuelist"
+type "InterruptData"
+using "Interrupt_DefensiveDuelist"
+data "Description" "h39f7a7f4g5f76g42e6g8528g9e0c1dba021f;1"
+data "Conditions" "IsAbleToReact(context.Observer) and HasInterruptedAttack() and Self(context.Target,context.Observer) and not AnyEntityIsItem() and IsMeleeAttack() and HasWeaponProperty(WeaponProperties.Finesse, GetActiveWeapon(context.Observer)) and IsProficientWith(context.Observer, GetActiveWeapon(context.Observer)) and IsFlatValueInterruptInteresting(context.Observer.ProficiencyBonus + ((context.Observer.Dexterity - 10) / 2) - 1, context.Source)"
+data "Properties" "AdjustRoll(OBSERVER_OBSERVER,0-(ProficiencyBonus+DexterityModifier));ApplyStatus(SWAP,PASSIVE_DEFENSIVE_DUELIST,100,0);ApplyStatus(OBSERVER_OBSERVER,INTERRUPT_DEFENSIVE_DUELIST,100,0)"
+data "InterruptDefaultValue" "Ask;Enabled"
+
 new entry "BEN_FRR_Interrupt_PolearmMaster"
 type "InterruptData"
 using "Interrupt_PolearmMaster"

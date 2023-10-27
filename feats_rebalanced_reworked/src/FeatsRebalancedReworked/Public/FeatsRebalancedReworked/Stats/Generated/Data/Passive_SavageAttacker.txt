@@ -1,7 +1,0 @@
-new entry "BEN_FRR_Sentinel_ExtraReaction"
-type "PassiveData"
-data "DisplayName" "h61101230g8e9cg40cbg8e7ag45c93a65056f;3"
-data "Description" "TODO;1"
-data "Icon" "PassiveFeature_SavageAttacker"
-data "Properties" "Highlighted"
-data "Boosts" "ActionResource(ReactionActionPoint,1,0)"
