@@ -1,0 +1,18 @@
+new entry "BEN_FRR_Shout_Blur_Ritual"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_Blur"
+data "TooltipUpcastDescription" ""
+data "UseCosts" "ActionPoint:1"
+data "RitualCosts" "ActionPoint:1"
+data "MemoryCost" ""
+
+new entry "BEN_FRR_Shout_FlameBlade_Ritual"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_FlameBlade"
+data "TooltipUpcastDescription" ""
+data "UseCosts" "BonusActionPoint:1"
+data "RitualCosts" "BonusActionPoint:1"
+data "MemoryCost" ""
+

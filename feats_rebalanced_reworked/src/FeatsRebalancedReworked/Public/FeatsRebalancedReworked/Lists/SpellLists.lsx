@@ -5,6 +5,11 @@
         <node id="root">
             <children>
                 <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Ritual Caster Feat"/>
+                    <attribute id="Spells" type="LSString" value="BEN_FRR_Projectile_ChromaticOrb_Ritual;BEN_FRR_Target_CreateDestroyWater_Ritual;Shout_DisguiseSelf;BEN_FRR_Target_Heroism_Ritual;Target_Jump;Target_FindFamiliar;Target_Longstrider;Shout_SpeakWithAnimals;BEN_FRR_Target_Smite_Wrathful_Ritual;BEN_FRR_Shout_Blur_Ritual;BEN_FRR_Target_EnlargeReduce_Ritual;BEN_FRR_Shout_FlameBlade_Ritual;Target_SpeakWithDead;"/>
+                    <attribute id="UUID" type="guid" value="583fcaa5-5eea-461a-b619-ee7990f88595"/>
+                </node>
+                <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Bard Magic Initiate Level 2"/>
                     <attribute id="Spells" type="LSString" value="Target_Blindness;Target_CalmEmotions;Target_CloudOfDaggers;Target_CrownOfMadness;Shout_DetectThoughts;Target_EnhanceAbility;Target_Enthrall;Target_HeatMetal;Target_HoldPerson;Target_Invisibility;Target_Knock;Target_LesserRestoration;Target_PhantasmalForce;Shout_SeeInvisibility;Target_Shatter;Target_Silence"/>
                     <attribute id="UUID" type="guid" value="110b67f2-ca31-468d-b818-901e581b7c3a"/>
