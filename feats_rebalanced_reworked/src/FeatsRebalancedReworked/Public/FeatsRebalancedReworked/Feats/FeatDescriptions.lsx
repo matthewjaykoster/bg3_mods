@@ -152,6 +152,13 @@
                     <attribute id="UUID" type="guid" value="5a63d60f-5dea-423f-8acf-14b76da93a50"/>
                 </node>
                 <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h77e70721g0a25g475eg933egb50ee4ca42ac" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h8d63974fgdcb8g463fg8bedg7e8f1ceb9722" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ShieldMaster"/>
+                    <attribute id="FeatId" type="guid" value="3fe71254-d1b2-44c7-886c-927552fe5f2e"/>
+                    <attribute id="UUID" type="guid" value="367e04a9-9e10-481c-987f-8b94f9ae0015"/>
+                </node>
+                <node id="FeatDescription">
                     <attribute id="Description" type="TranslatedString" handle="h4e8dbfdegc8f7g481cga6beg517694952ee7" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h1a3b6583g891fg4caag9095g3f557dbee5bd" version="2"/>
                     <attribute id="ExactMatch" type="FixedString" value="TavernBrawler"/>

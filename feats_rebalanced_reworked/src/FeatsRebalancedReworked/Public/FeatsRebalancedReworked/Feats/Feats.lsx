@@ -116,9 +116,21 @@
                     <attribute id="UUID" type="guid" value="fdf0be80-cc1e-4501-bd2e-7a1ea737362c"/>
                 </node>
                 <node id="Feat">
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="true"/>
+                    <attribute id="Name" type="FixedString" value="RitualCaster"/>
+                    <attribute id="PassivesAdded" type="LSString" value="RitualCaster_FreeSpells"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(8c32c900-a8ea-4f2f-9f6f-eccd0d361a9d,2,0,,,,AlwaysPrepared)"/>
+                    <attribute id="UUID" type="guid" value="f3370916-6b35-4c5b-af36-19ca888cb43e"/>
+                </node>
+                <node id="Feat">
                     <attribute id="Name" type="FixedString" value="Sentinel"/>
                     <attribute id="PassivesAdded" type="LSString" value="BEN_FRR_Sentinel_Attack;Sentinel_ZeroSpeed;BEN_FRR_Sentinel_ZeroSpeed;BEN_FRR_Sentinel_OpportunityAdvantage;BEN_FRR_Sentinel_ExtraReaction"/>
                     <attribute id="UUID" type="guid" value="816b1554-9384-49e9-aaa0-05dd622e60f7"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="ShieldMaster"/>
+                    <attribute id="PassivesAdded" type="LSString" value="ShieldMaster_PassiveBonuses;ShieldMaster_Block;BEN_FRR_ShieldMaster_RangeBlock"/>
+                    <attribute id="UUID" type="guid" value="3fe71254-d1b2-44c7-886c-927552fe5f2e"/>
                 </node>
                 <node id="Feat">
                     <attribute id="Name" type="FixedString" value="TavernBrawler"/>

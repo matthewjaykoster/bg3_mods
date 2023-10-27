@@ -1,6 +1,6 @@
 new treasuretable "TUT_Chest_Potions"
 CanMerge 1
-new subtable "12,1"
+new subtable "13,1"
 object category "I_WPN_Longbow",1,0,0,0,0,0,0,0
 object category "I_ARM_Leather_Body",1,0,0,0,0,0,0,0
 object category "I_ARM_ChainShirt_Body_1",1,0,0,0,0,0,0,0
@@ -12,3 +12,4 @@ object category "I_OBJ_AcidBottle",1,0,0,0,0,0,0,0
 object category "I_WPN_Rapier",1,0,0,0,0,0,0,0
 object category "I_CONS_DRINK_Beer",2,0,0,0,0,0,0,0
 object category "I_CONS_DRINK_Wine_Bottle",1,0,0,0,0,0,0,0
+object category "I_ARM_Shield",1,0,0,0,0,0,0,0

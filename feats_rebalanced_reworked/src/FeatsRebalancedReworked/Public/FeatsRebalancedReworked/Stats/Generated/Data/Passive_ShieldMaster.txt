@@ -1,0 +1,8 @@
+new entry "BEN_FRR_ShieldMaster_RangeBlock"
+type "PassiveData"
+data "DisplayName" "h273b986fga11eg4f6cg92d7gd07211084b49;1"
+data "Description" "h80cfa494ge8d1g45fcg97a0gaf984a095007;1"
+data "Icon" "PassiveFeature_ShieldMaster_Block"
+data "PriorityOrder" "1"
+data "Properties" "Highlighted"
+data "Boosts" "UnlockInterrupt(BEN_FRR_Interrupt_ShieldMaster_RangeBlock)"
