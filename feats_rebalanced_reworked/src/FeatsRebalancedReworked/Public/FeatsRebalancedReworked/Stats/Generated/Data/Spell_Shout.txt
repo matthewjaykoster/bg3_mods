@@ -15,4 +15,3 @@ data "TooltipUpcastDescription" ""
 data "UseCosts" "BonusActionPoint:1"
 data "RitualCosts" "BonusActionPoint:1"
 data "MemoryCost" ""
-
