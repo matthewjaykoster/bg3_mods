@@ -121,6 +121,12 @@
                     <attribute id="UUID" type="guid" value="816b1554-9384-49e9-aaa0-05dd622e60f7"/>
                 </node>
                 <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="TavernBrawler"/>
+                    <attribute id="PassivesAdded" type="LSString" value="BEN_FRR_TavernBrawler_DrunkFighter;BEN_FRR_TavernBrawler_Thrown"/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilities(859878b3-9c3a-450d-a190-bc90707c9671,1,1,TavernBrawlerASI)"/>
+                    <attribute id="UUID" type="guid" value="be0889d2-f9aa-472d-b942-592bff0f1ef3"/>
+                </node>
+                <node id="Feat">
                     <attribute id="Name" type="FixedString" value="Tough"/>
                     <attribute id="PassivesAdded" type="LSString" value="BEN_FRR_Tough"/>
                     <attribute id="UUID" type="guid" value="e8d1e7f6-d841-48ff-a83c-f1aaa16597ff"/>
