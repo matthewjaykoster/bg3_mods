@@ -2,7 +2,7 @@
 
 Have you ever looked at any of the feats and thought "wow, that sucks, why would I ever take that?" I feel this way about most of the feats in BG3. So, after completing my first playthrough, I wanted to make some changes. 
 
-This mod rebalances or reworks 28 out of the 41 "Base 5e Feats". For thse most part, these changes aim to increase viable player choice, since, in my opinion, the majority of the base game feats are far too weak to ever consider taking. So, I would consider almost every change I've made here to be a "buff". This might be an issue since BG3 overall is a pretty low difficulty game, but since you're here, I figure that if you want a harder experience, you'll just add other mods to accomplish that for you.
+This mod rebalances or reworks 28 out of the 41 "Base 5e Feats". For the most part, these changes aim to increase viable player choice, since, in my opinion, the majority of the base game feats are far too weak to ever consider taking. So, I would consider almost every change I've made here to be a "buff". This might be an issue since BG3 overall is a pretty low difficulty game, but since you're here, I figure that if you want a harder experience, you'll just add other mods to accomplish that for you.
 
 Additionally, for most reworks, I've tried to focus on buffing defense over offense. In my opinion, part of BG3's easy difficulty comes from the absurd degree to which players can stack offensive abilities, so when given the chance, I've focused on trying to make defense more appealing.
 
