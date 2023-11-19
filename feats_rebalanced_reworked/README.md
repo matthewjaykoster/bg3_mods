@@ -125,6 +125,12 @@ Notes: Keeping in theme with the other "Armor Master" feats, this is really a wa
 _Mobile_
 No change.
 
+_Moderately Armored_
+Renamed to "Unarmored Master".
+Replaced effect with "Gain +1 DEX. While not wearing armor or shield and damaged in melee, gain a Dodge charge. You can spend this Dodge charge to cause an attack to miss, or to automatically succeed on a DEX saving throw.".
+
+Notes: Keeping to the "Armor Master" theme of "thematically appropriate ways to reduce damage".
+
 _Performer_
 Added "Added unique aura to each song you play. One grants +1d4 damage. Another grants +1 to attack rolls. The third grants +1 to saving throws."
 
