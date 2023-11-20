@@ -209,5 +209,9 @@ Since this mod changes most feats from the base game, it will likely be incompat
 
 # Changelog
 
+_2023-11-19 - 1.0.1.0_
+- Added D20 Initiative compatibility patch
+- Fixed a bug where the first chest in the Tutorial gained a bunch of (mostly useless) items.
+
 _2023-11-19 - 1.0.0.0_
 - Initial Release

@@ -8,24 +8,24 @@
                 <node id="ModuleInfo">
                     <attribute id="Author" type="LSWString" value="Benenach"/>
                     <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
-                    <attribute id="Description" type="LSWString" value="Rebalances and/or reworks the Feats created by Larian."/>
-                    <attribute id="Folder" type="LSWString" value="FeatsRebalancedReworked"/>
+                    <attribute id="Description" type="LSWString" value="D20 initiative patch for 5e Feats Rebalanced and Reworked. Reverts 'Alert' changes from the base mod."/>
+                    <attribute id="Folder" type="LSWString" value="FeatsRebalancedReworkedAlertPatch"/>
                     <attribute id="GMTemplate" type="FixedString" value=""/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
                     <attribute id="MD5" type="LSString" value=""/>
                     <attribute id="MainMenuBackgroundVideo" type="FixedString" value=""/>
                     <attribute id="MenuLevelName" type="FixedString" value=""/>
-                    <attribute id="Name" type="FixedString" value="FeatsRebalancedReworked"/>
+                    <attribute id="Name" type="FixedString" value="FeatsRebalancedReworkedAlertPatch"/>
                     <attribute id="NumPlayers" type="uint8" value="4"/>
                     <attribute id="PhotoBooth" type="FixedString" value=""/>
                     <attribute id="StartupLevelName" type="FixedString" value=""/>
                     <attribute id="Tags" type="LSWString" value="Feat"/>
                     <attribute id="Type" type="FixedString" value="Add-on"/>
-                    <attribute id="UUID" type="FixedString" value="2494017b-348d-4337-b9db-c7cfa1291d68"/>
-                    <attribute id="Version64" type="int64" value="36028799166447616"/>
+                    <attribute id="UUID" type="FixedString" value="4774d3a7-8ad1-478c-ac92-495cbd69bde9"/>
+                    <attribute id="Version" type="int32" value="268435456"/>
                     <children>
                         <node id="PublishVersion">
-                            <attribute id="Version64" type="int64" value="36028799166447616"/>
+                            <attribute id="Version" type="int32" value="268435456"/>
                         </node>
                         <node id="Scripts"/>
                         <node id="TargetModes">

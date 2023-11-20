@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="322"/>
+    <region id="Feats">
+        <node id="root">
+            <children>
+                <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="Alert"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Alert;BEN_FRR_Alert_FirstRound"/>
+                    <attribute id="UUID" type="guid" value="f57bd72c-be64-4855-9e3a-bb7d7665e656"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
