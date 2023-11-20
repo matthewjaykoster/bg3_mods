@@ -41,7 +41,7 @@ Notes: After playing around with this feat, I'm actually pretty impressed. It's 
 _Crossbow Expert_
 Renamed to "Close Quarters Archery".
 Modified effect to apply to all Ranged weapons, not just crossbows.
-Added "When you make a Ranged weapon attack in melee, you gain 2 meters of movement, and you can move without provoking disadvantage."
+Added "When you make a Ranged weapon attack in melee, you gain 2 meters of movement, and you can move without provoking attacks of opportunity."
 
 Notes: This is now very similar to Mobile, but is more focused on Ranged weapons instead.
 
