@@ -1,0 +1,8 @@
+new entry "BEN_ER_Target_Bloodlust_BonusAttack"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_MainHandAttack"
+data "SpellProperties" "RemoveStatus(SELF,BEN_ER_ALCH_ELIXIR_BLOODLUST_TEMP_BONUS_ATTACK);GROUND:DealDamage(MainMeleeWeapon, MainMeleeWeaponDamageType);GROUND:ExecuteWeaponFunctors(MainHand);CastOffhand[GROUND:DealDamage(OffhandMeleeWeapon, OffhandMeleeWeaponDamageType);GROUND:ExecuteWeaponFunctors(OffHand)];IF(not Player(context.Source)):ApplyStatus(SELF,AI_HELPER_EXTRAATTACK,100,1)"
+data "DisplayName" "hbe89ab3fga696g49e0g94e5g54a8ff07f792;1"
+data "UseCosts" "BonusActionPoint:1"
+data "SpellFlags" "IsMelee;IsHarmful;Temporary"

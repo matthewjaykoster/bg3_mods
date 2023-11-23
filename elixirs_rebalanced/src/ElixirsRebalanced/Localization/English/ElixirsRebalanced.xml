@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<!--Battlemage-->
+	<content contentuid="hfa66ea7dgaf73g4057g8a1bgad50468940ba" version="1">Drink to increase the effectiveness of your spells. You will gain [1] &lt;LSTag Type="Status" Tooltip="MAG_GISH_ARCANE_ACUITY"&gt;Arcane Acuity&lt;/LSTag&gt; and &lt;LSTag Type="Status" Tooltip="MAG_GISH_ARCANE_CHARGE"&gt;Arcane Charge&lt;/LSTag&gt;. Replaces effects from other elixirs when drunk.</content>
+	<content contentuid="h4dc0bbe0g96c5g4e54ga593gba45b8d688db" version="1">Affected entity has &lt;LSTag Type="Status" Tooltip="MAG_GISH_ARCANE_ACUITY"&gt;Arcane Acuity&lt;/LSTag&gt; and &lt;LSTag Type="Status" Tooltip="MAG_GISH_ARCANE_CHARGE"&gt;Arcane Charge&lt;/LSTag&gt; until its next &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;. Replaces effects from other elixirs when drunk.</content>
+
+	<!--Bloodlust-->
+	<content contentuid="h9079f45cg64fdg4134g895cg0976fca2ec4b" version="1">Drink to enter a bloodlust. Once per turn when you kill a foe, you gain [1] &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporary hit points&lt;/LSTag&gt; and you may make a melee attack with your main hand weapon as a bonus action. Replaces effects from other elixirs when drunk. </content>
+	<content contentuid="h3d9da0b9g893eg4c7cg9254gfb6a4ddd12ae" version="5">Affected entity has entered a murderous state of bloodlust. Once per turn, when it kills an enemy, it gains  [1] &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporary hit points&lt;/LSTag&gt; and may make a melee attack with their main hand weapon as a bonus action. Replaces effects from other elixirs when drunk.</content>
+	<content contentuid="hbe89ab3fga696g49e0g94e5g54a8ff07f792" version="1">Bloodlust Melee Attack</content>
+
+	<!--Cloud Giant Strength-->
+	<content contentuid="hadfb1593gd231g40f0g93b4g5af9e31aa755" version="1">Increase your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; by 4, to a maximum of 28.</content>
+	<content contentuid="ha04fa3d8gd20cg4b78g9ba9ge0252ee48624" version="1">&lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; increased by 4, to a maximum of 28.</content>
+
+	<!--Hill Giant Strength-->
+	<content contentuid="h19092ca4g36ecg47b1g8221g3174e52610c5" version="1">Increase your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; by 2, to a maximum of 22. Increase your &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; by 2, to a maximum of 22.</content>
+	<content contentuid="h01df0702g5059g45a1gaa93ge8c33a58307e" version="1">&lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; increased by 2, to a maximum of 22. &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; increased by 2, to a maximum of 22.</content>
+</contentList>
+
