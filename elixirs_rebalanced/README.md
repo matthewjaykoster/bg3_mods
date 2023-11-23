@@ -1,4 +1,4 @@
-# BG3 Mod Template
+# Elixirs Rebalanced
 A small mod which rebalances the 4 elixirs which I view as overpowered.
 
 ## Description
